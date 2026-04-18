@@ -13,7 +13,7 @@ Modeled claim frequency using Bernoulli trials and claim severity using a unifor
 - loops and conditional logic
 
 ## Key Result
-Estimated probability that total losses exceed $125,000 is approximately X% (based on simulation).
+Estimated probability that total losses exceed $125,000 is approximately X% (based on simulation), which is close to 50% since the threshold is near the expected loss, though variability in claims causes deviations.
 
 ## How to Run
 python simulation.py
